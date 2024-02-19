@@ -12,4 +12,4 @@ Esto es un texto parcialmente en ne**_grita y cursi_**va.
 
 <https://editormarkdown.com> Para un enlace
 
-<img src="/img/tutorial/imagen-markdown.webp" alt="Imagen de unas nubes">
+<img src="https://media.istockphoto.com/id/184103864/es/foto/nubes-en-el-cielo.jpg?s=612x612&w=0&k=20&c=owehXuhW5eJ9TgWcrGkJwCeYWXxfGBItcaaHmtNS4tY=" alt="Imagen de unas nubes">
