@@ -1,6 +1,7 @@
 <ul>
-  <li>Esto es un **texto en negrita**.
-Esto es un texto parcialmente en ne**gri**ta.
+  <li>Esto es un **texto en negrita**.  
+
+Esto es un texto parcialmente en ne**gri**ta.  
 Esto es un __texto en negrita__.
 </li>
   <li>
